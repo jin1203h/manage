@@ -1,0 +1,14 @@
+coffee/ManageRepository.class
+coffee/ManageController.class
+coffee/Manage.class
+coffee/PolicyHandler.class
+coffee/ManageCancel.class
+coffee/ManageApplication.class
+coffee/Ordered.class
+coffee/AbstractEvent.class
+coffee/ManageCancelRepository.class
+coffee/AbstractEvent$1.class
+coffee/ManageCanceled.class
+coffee/Managed.class
+coffee/config/kafka/KafkaProcessor.class
+coffee/ManageCancelController.class

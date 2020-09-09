@@ -1,0 +1,13 @@
+/home/project/manage/src/main/java/coffee/config/kafka/KafkaProcessor.java
+/home/project/manage/src/main/java/coffee/AbstractEvent.java
+/home/project/manage/src/main/java/coffee/ManageCancelRepository.java
+/home/project/manage/src/main/java/coffee/Ordered.java
+/home/project/manage/src/main/java/coffee/Manage.java
+/home/project/manage/src/main/java/coffee/ManageApplication.java
+/home/project/manage/src/main/java/coffee/ManageCanceled.java
+/home/project/manage/src/main/java/coffee/ManageCancel.java
+/home/project/manage/src/main/java/coffee/ManageController.java
+/home/project/manage/src/main/java/coffee/PolicyHandler.java
+/home/project/manage/src/main/java/coffee/Managed.java
+/home/project/manage/src/main/java/coffee/ManageCancelController.java
+/home/project/manage/src/main/java/coffee/ManageRepository.java
